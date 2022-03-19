@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Day out</string>
+    <string name="app_arabic_name">اقترح مكان أو نشاط</string>
+    <string name="suggest">اقترح</string>
+</resources>
